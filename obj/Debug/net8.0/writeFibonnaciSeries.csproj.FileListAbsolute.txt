@@ -1,0 +1,15 @@
+C:\Users\akemboi\source\repos\writeFibonnaciSeries\obj\Debug\net8.0\writeFibonnaciSeries.csproj.AssemblyReference.cache
+C:\Users\akemboi\source\repos\writeFibonnaciSeries\obj\Debug\net8.0\writeFibonnaciSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akemboi\source\repos\writeFibonnaciSeries\obj\Debug\net8.0\writeFibonnaciSeries.AssemblyInfoInputs.cache
+C:\Users\akemboi\source\repos\writeFibonnaciSeries\obj\Debug\net8.0\writeFibonnaciSeries.AssemblyInfo.cs
+C:\Users\akemboi\source\repos\writeFibonnaciSeries\obj\Debug\net8.0\writeFibonnaciSeries.csproj.CoreCompileInputs.cache
+C:\Users\akemboi\source\repos\writeFibonnaciSeries\bin\Debug\net8.0\writeFibonnaciSeries.exe
+C:\Users\akemboi\source\repos\writeFibonnaciSeries\bin\Debug\net8.0\writeFibonnaciSeries.deps.json
+C:\Users\akemboi\source\repos\writeFibonnaciSeries\bin\Debug\net8.0\writeFibonnaciSeries.runtimeconfig.json
+C:\Users\akemboi\source\repos\writeFibonnaciSeries\bin\Debug\net8.0\writeFibonnaciSeries.dll
+C:\Users\akemboi\source\repos\writeFibonnaciSeries\bin\Debug\net8.0\writeFibonnaciSeries.pdb
+C:\Users\akemboi\source\repos\writeFibonnaciSeries\obj\Debug\net8.0\writeFibonnaciSeries.dll
+C:\Users\akemboi\source\repos\writeFibonnaciSeries\obj\Debug\net8.0\refint\writeFibonnaciSeries.dll
+C:\Users\akemboi\source\repos\writeFibonnaciSeries\obj\Debug\net8.0\writeFibonnaciSeries.pdb
+C:\Users\akemboi\source\repos\writeFibonnaciSeries\obj\Debug\net8.0\writeFibonnaciSeries.genruntimeconfig.cache
+C:\Users\akemboi\source\repos\writeFibonnaciSeries\obj\Debug\net8.0\ref\writeFibonnaciSeries.dll
